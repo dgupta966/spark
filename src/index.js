@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./navbar/App";
+import Design from './pixeldesign/design';
 ReactDOM.render(
-    <App />,
+    <Design />,
   document.getElementById('root')
 );
 
